@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "map_value_param": {
+      "commandName": "Project",
+      "commandLineArgs": "-cfg \"config.yaml\" force-update",
+      "workingDirectory": "D:\\test_proto"
+    }
+  }
+}
